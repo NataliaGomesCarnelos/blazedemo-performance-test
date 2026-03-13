@@ -198,9 +198,11 @@ Clique no botão "Start"
 # Estrutura do Repositório
 blazedemo-performance-test
 │
-├── agibank_teste_performance.jmx
 ├── README.md
-└── reports/
+├── agibank_teste_performance.jmx
+└── images
+     ├── load_test.png
+     └── spike_test.png
 
 
 ---
@@ -208,3 +210,13 @@ blazedemo-performance-test
 # Considerações Finais
 
 A combinação de **Load Test** e **Spike Test** permite obter uma visão mais completa sobre o comportamento do sistema sob diferentes padrões de tráfego, avaliando tanto sua capacidade de processamento contínuo quanto sua resiliência a picos de acesso.
+
+## Resultados
+
+### Load Test
+
+![Load Test](images/load_test.png)
+
+### Spike Test
+
+![Spike Test](images/spike_test.png)
