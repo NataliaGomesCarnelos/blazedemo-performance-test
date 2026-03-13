@@ -195,14 +195,17 @@ Clique no botão "Start"
 
 ---
 
-# Estrutura do Repositório
+## Estrutura do Repositório
+
+```
 blazedemo-performance-test
 │
 ├── README.md
 ├── agibank_teste_performance.jmx
-└── images
-     ├── load_test.png
-     └── spike_test.png
+└── imagens
+    ├── load_test.png
+    └── spike_test.png
+```
 
 # Considerações Finais
 
@@ -213,9 +216,9 @@ A combinação de **Load Test** e **Spike Test** permite obter uma visão mais c
 
 ### Load Test
 
-![Resultado Load Test](imagens/load_test.png)
+![Load Test](images/load_test.png)
 
 ### Spike Test
 
-![Resultado Spike Test](imagens/spike_test.png)
+![Spike Test](images/spike_test.png)
 =======
