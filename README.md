@@ -204,12 +204,10 @@ blazedemo-performance-test
      ├── load_test.png
      └── spike_test.png
 
-
----
-
 # Considerações Finais
 
 A combinação de **Load Test** e **Spike Test** permite obter uma visão mais completa sobre o comportamento do sistema sob diferentes padrões de tráfego, avaliando tanto sua capacidade de processamento contínuo quanto sua resiliência a picos de acesso.
+
 
 ## Resultados
 
@@ -220,3 +218,4 @@ A combinação de **Load Test** e **Spike Test** permite obter uma visão mais c
 ### Spike Test
 
 ![Spike Test](images/spike_test.png)
+=======
