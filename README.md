@@ -200,8 +200,6 @@ blazedemo-performance-test
 │
 ├── agibank_teste_performance.jmx
 ├── README.md
-└── reports/
-
 
 ---
 
