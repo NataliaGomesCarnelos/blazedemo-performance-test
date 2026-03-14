@@ -216,9 +216,9 @@ A combinação de **Load Test** e **Spike Test** permite obter uma visão mais c
 
 ### Load Test
 
-![Load Test](images/load_test.png)
+![Load Test](imagens/load_test.png)
 
 ### Spike Test
 
-![Spike Test](images/spike_test.png)
+![Spike Test](imagens/spike_test.png)
 =======
